@@ -1,0 +1,18 @@
+EXERCICIO:
+Criar um formulário que receba seu nome e 3 notas. Ao executar o formulário mostrar seu nome e a média das 3 notas. (Use Css)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
