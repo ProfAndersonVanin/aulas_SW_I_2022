@@ -1,0 +1,37 @@
+No Brasil para uma pessoa poder dirigir um veículo, ela deve ter no mínimo 18 anos e ser habilitada. Construa um programa que avalie as seguintes situações:
+
+a) idade = 17
+   habilitacao = FALSE
+
+b) idade = 20
+   habilitacao = FALSE
+
+c) idade = 18
+   habilitacao = TRUE
+
+b) idade = 15
+   habilitacao = TRUE
+
+
+
+Exercicio 02 
+
+Elabore um programa que pergunte ao usuário em que turno ele estuda. Peça para digitar M para Manhã, T para Tarde ou N para Noite. Imprima a mensagem "Bom dia!" se ele digitou M, "Boa Tarde!" se digitou T, "Boa Noite!" se digitou N ou "Dados Incorretos!" caso tenha digitado qualquer outro caracter.
+Elaborar um formulário para receber a opção do usuário e uma página para mostrar a informação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
