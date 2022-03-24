@@ -1,0 +1,8 @@
+Exercício Prático
+
+Há dois arquivos de Templates:
+- login (rar)
+- painel administrativo (rar)
+
+Exercício:
+Utilizando o template de login, insira os valores de username e password, passe esses valores para uma pagina php chamada processa.php e verifique se username = etecmcm e se password = 141. Se os dados estiverem ok, redirecionar para a página inicial do template painel, caso contrário emitir um alert com a mensagem: "Usuário não encontrado" e redirecionar para a página de login novamente.
